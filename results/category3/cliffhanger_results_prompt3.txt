@@ -1,0 +1,15 @@
+Prompt: The genetic sequence is C C T G G T A C T G 
+
+Normal Model Top Predictions:
+   A (6.95%)
+   C (4.82%)
+   M (3.34%)
+   and (3.23%)
+   E (2.59%)
+
+Ablated Model Top Predictions:
+   A (6.94%)
+   C (4.67%)
+   and (3.70%)
+   M (3.38%)
+   E (2.63%)

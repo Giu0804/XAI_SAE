@@ -1,0 +1,4 @@
+PROMPT: My name is Bob and I am a MVA's master student.
+BASELINE: My name is Bob and I am a MVA's master student. I am a student of the University of California, and I am a student of the University of California
+STEERED (Coeff 4.5): My name is Bob and I am a MVA's master student.
+I'm GAGARAGOGAGAGAGAGAGAGAGAGAGAGAGA

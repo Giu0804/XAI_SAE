@@ -1,0 +1,34 @@
+Top 10 Exemplars for DNA Feature #16094
+==================================================
+
+Activation: 3.6539
+Context: ...CGGGTTCCAGTGAAATAT t...
+------------------------------
+Activation: 3.6067
+Context: ...CGGCCCACCCGC ics) teacher...
+------------------------------
+Activation: 3.5988
+Context: ...AAGTTGCGCCTTAT ---------------------------------------
+#...
+------------------------------
+Activation: 3.5785
+Context: ...TAATGTTGCTTGCCGTG leum...
+------------------------------
+Activation: 3.5627
+Context: ...CTAGGCCGTGGATGAGTTA immersion...
+------------------------------
+Activation: 3.5329
+Context: ...GGGTTTGTTGAATGT 19....
+------------------------------
+Activation: 3.5228
+Context: ...TCACATAGGTTATCG vides door...
+------------------------------
+Activation: 3.4293
+Context: ...CAGTCATGTTCCCGC an Consultancy Hub...
+------------------------------
+Activation: 3.3972
+Context: ...CATTTGTTAAACCGCAGG ing human...
+------------------------------
+Activation: 3.3971
+Context: ...GTGCCGTGAGGTCATGACCTACC ...
+------------------------------

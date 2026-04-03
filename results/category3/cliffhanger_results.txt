@@ -1,0 +1,15 @@
+Prompt: The analysis of the genetic sequence shows
+
+Normal Model Top Predictions:
+   that (47.17%)
+   the (18.23%)
+   a (6.66%)
+   how (3.96%)
+   an (1.33%)
+
+Ablated Model Top Predictions:
+   that (47.17%)
+   the (18.23%)
+   a (6.66%)
+   how (3.96%)
+   an (1.33%)

@@ -1,0 +1,8 @@
+sur onyxia : 
+
+pip uninstall -y torch torchvision torchaudio
+
+pip install torch==2.10.0 torchvision==0.25.0 torchaudio==2.10.0 --index-url https://download.pytorch.org/whl/cu128
+
+
+puis faire pip install -r requirements.txt

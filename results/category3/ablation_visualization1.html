@@ -1,0 +1,17 @@
+
+    <html><head><style>
+        body { font-family: monospace; background-color: #1e1e1e; color: #d4d4d4; padding: 20px; line-height: 2.0; }
+        .token { padding: 2px 4px; border-radius: 3px; cursor: default; position: relative; }
+        /* Tooltip logic */
+        .token::after {
+            content: attr(data-info); position: absolute; bottom: 100%; left: 50%;
+            transform: translateX(-50%); background: #333; color: white; padding: 4px 8px;
+            border-radius: 4px; font-size: 12px; white-space: nowrap;
+            opacity: 0; pointer-events: none; transition: opacity 0.2s; z-index: 10;
+        }
+        .token:hover::after { opacity: 1; }
+    </style></head><body>
+    <h2>Exp 3A: Ablation of DNA Feature (Log-Likelihood Difference)</h2>
+    <p>Blue = Prediction got worse (Feature was needed) | Red = Prediction got better</p>
+    <div style="font-size: 18px; margin-top: 20px;">
+    <span class="token"><|BOS|></span><span class="token" style="background-color: transparent;" data-info="Token: 'The' | Diff: 0.000">The</span><span class="token" style="background-color: transparent;" data-info="Token: ' analysis' | Diff: 0.000"> analysis</span><span class="token" style="background-color: transparent;" data-info="Token: ' of' | Diff: 0.000"> of</span><span class="token" style="background-color: transparent;" data-info="Token: ' the' | Diff: 0.000"> the</span><span class="token" style="background-color: transparent;" data-info="Token: ' genetic' | Diff: 0.000"> genetic</span><span class="token" style="background-color: transparent;" data-info="Token: ' sequence' | Diff: 0.000"> sequence</span><span class="token" style="background-color: transparent;" data-info="Token: ' shows' | Diff: 0.000"> shows</span><span class="token" style="background-color: transparent;" data-info="Token: ' C' | Diff: 0.000"> C</span><span class="token" style="background-color: transparent;" data-info="Token: 'GG' | Diff: 0.000">GG</span><span class="token" style="background-color: rgba(69, 123, 157, 0.22441451251506805);" data-info="Token: 'GTT' | Diff: -0.673">GTT</span><span class="token" style="background-color: rgba(69, 123, 157, 0.8220462799072266);" data-info="Token: 'CC' | Diff: -2.466">CC</span><span class="token" style="background-color: rgba(69, 123, 157, 1.0);" data-info="Token: 'AG' | Diff: -3.284">AG</span><span class="token" style="background-color: rgba(69, 123, 157, 0.536688506603241);" data-info="Token: 'TG' | Diff: -1.610">TG</span><span class="token" style="background-color: rgba(69, 123, 157, 0.6930031180381775);" data-info="Token: 'AA' | Diff: -2.079">AA</span><span class="token" style="background-color: rgba(69, 123, 157, 0.888312578201294);" data-info="Token: 'AT' | Diff: -2.665">AT</span><span class="token" style="background-color: rgba(69, 123, 157, 1.0);" data-info="Token: 'AT' | Diff: -3.235">AT</span><span class="token" style="background-color: rgba(230, 57, 70, 1.0);" data-info="Token: ' which' | Diff: 3.524"> which</span><span class="token" style="background-color: transparent;" data-info="Token: ' is' | Diff: -0.043"> is</span><span class="token" style="background-color: transparent;" data-info="Token: ' very' | Diff: 0.014"> very</span><span class="token" style="background-color: transparent;" data-info="Token: ' interesting' | Diff: 0.000"> interesting</span><span class="token" style="background-color: transparent;" data-info="Token: '.' | Diff: -0.056">.</span></div></body></html>

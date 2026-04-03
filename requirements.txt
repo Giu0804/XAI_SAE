@@ -1,0 +1,8 @@
+transformer_lens>=1.12.0
+huggingface-hub
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+tqdm

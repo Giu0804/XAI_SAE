@@ -1,0 +1,4 @@
+L_clean: 5.2719
+L_zero: 10.4628
+L_SAE: 5.6964
+Loss Recovery: 91.82%
