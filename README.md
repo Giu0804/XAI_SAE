@@ -24,7 +24,7 @@ The project is organized into modular components for data generation, model load
 
 ### Installation
 ```bash
-git clone [https://github.com/Giu0804/XAI_SAE.git](https://github.com/Giu0804/XAI_SAE.git)
+git clone https://github.com/Giu0804/XAI_SAE.git
 cd XAI_SAE
 pip install -r requirements.txt
 ```
