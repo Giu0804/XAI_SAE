@@ -29,6 +29,7 @@ cd XAI_SAE
 pip install -r requirements.txt
 ```
 
+If you use Onyxia, please refer to the [commands.txt](./commands.txt) file to get the right version of PyTorch.
 ## Experimental Pipeline
 
 The project follows a structured validation path divided into eight distinct categories:
